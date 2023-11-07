@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96d22a23.css",
+    "main.js": "/static/js/main.48e72ac2.js",
+    "static/media/handIcon.png": "/static/media/handIcon.e3913eaa3f0a50206b21.png",
+    "static/media/generateGameIcon.svg": "/static/media/generateGameIcon.b1bcbe44da71e904f82a3d991001a59a.svg",
+    "static/media/pencilIcon.svg": "/static/media/pencilIcon.d35d1f0f63a732cc0ab8046feb724a80.svg",
+    "static/media/assetsIcon.svg": "/static/media/assetsIcon.86c4848a365c32354653632f30e612dc.svg",
+    "static/media/lightBulbIcon.svg": "/static/media/lightBulbIcon.b4a1a0bc112d1cd65e10c36228aa9d20.svg",
+    "static/media/promptArrowIcon.svg": "/static/media/promptArrowIcon.0ba772b1f503bdc59dedb30db736726b.svg",
+    "index.html": "/index.html",
+    "static/media/chatIcon.svg": "/static/media/chatIcon.4a81208f1c1a83f36d19cb49373018a2.svg",
+    "static/media/closeChat.svg": "/static/media/closeChat.52ec33e5dd5a45a8f59ddcee9c3ec4ce.svg",
+    "static/media/codeIcon.svg": "/static/media/codeIcon.cc413052883d22d09583b93509e3b603.svg",
+    "main.96d22a23.css.map": "/static/css/main.96d22a23.css.map",
+    "main.48e72ac2.js.map": "/static/js/main.48e72ac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d22a23.css",
+    "static/js/main.48e72ac2.js"
+  ]
+}
